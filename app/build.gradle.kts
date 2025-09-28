@@ -84,10 +84,6 @@ android {
             dimension = "version"
             manifestPlaceholders["APP_CHANNEL"] = "huawei"
         }
-        create("360dev"){
-            dimension = "version"
-            manifestPlaceholders["APP_CHANNEL"] = "360"
-        }
         create("tencent"){
             dimension = "version"
             manifestPlaceholders["APP_CHANNEL"] = "tencent"
