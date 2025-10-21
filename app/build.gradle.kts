@@ -207,8 +207,6 @@ dependencies {
 
     implementation(libs.lunar)
 
-    implementation(libs.hutool)
-
     implementation(libs.telephoto)
 
     testImplementation(libs.junit)

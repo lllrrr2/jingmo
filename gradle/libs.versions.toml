@@ -19,7 +19,6 @@ core-ktx = "1.16.0"
 espresso-core = "3.6.1"
 hilt = "2.57.2"
 hiltExt = "1.2.0"
-hutool = "5.8.41"
 junit = "4.13.2"
 kotlin = "2.2.20"
 kotlinxCoroutines = "1.10.2"
@@ -80,7 +79,6 @@ hilt-android-testing = { group = "com.google.dagger", name = "hilt-android-testi
 hilt-compiler = { group = "com.google.dagger", name = "hilt-android-compiler", version.ref = "hilt" }
 hilt-ext-compiler = { group = "androidx.hilt", name = "hilt-compiler", version.ref = "hiltExt" }
 hilt-ext-work = { group = "androidx.hilt", name = "hilt-work", version.ref = "hiltExt" }
-hutool = { group = "cn.hutool", name = "hutool-all", version.ref = "hutool" }
 lunar = { group = "cn.6tail", name = "lunar", version.ref = "lunar" }
 room-compiler = { group = "androidx.room", name = "room-compiler", version.ref = "room" }
 room-ktx = { group = "androidx.room", name = "room-ktx", version.ref = "room" }
