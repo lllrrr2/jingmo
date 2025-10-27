@@ -56,15 +56,15 @@ android {
                 )
             }
         }
-        /*ndk {
+        ndk {
             // 设置支持的SO库架构
             abiFilters += setOf(
-                "armeabi",
-                "x86",
+                "armeabi-v7a",
                 "arm64-v8a",
+                "x86",
                 "x86_64"
-            )//, 'x86', 'armeabi-v7a', 'x86_64', 'arm64-v8a'
-        }*/
+            )//'armeabi-v7a', 'arm64-v8a', 'x86', 'x86_64',
+        }
 
     }
 
