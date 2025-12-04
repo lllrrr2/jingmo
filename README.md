@@ -2,9 +2,9 @@
 <div align="center">
 <img src="./screenshot/logo.png" alt="Logo" height="200">
 </div>
-    
+
 # 京墨
-    
+
 <div>
 <img alt="GitHub Release" src="https://img.shields.io/github/v/release/hefengbao/jingmo?display_name=release&style=for-the-badge">
 <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/hefengbao/jingmo/total?style=for-the-badge">
@@ -19,11 +19,12 @@
 
 ## 介绍
 
-『京墨』开源的中华文化宝典 APP，诗（词）文（名句）、汉字、成语、词语、歇后语、绕口令、传统节日、传统色、节气、人物等。
+『京墨』开源的中华文化阅读 APP，诗（词）文（名句）、汉字、成语、词语、歇后语、绕口令、传统节日、传统色、节气、人物等。
 
 献给喜欢中华文字、文学、文化的人。
 
 目前的内容有：
+
 1. 经典诗文 955 篇；
 2. 诗文 160 万篇,包含诗、词、辞赋、残句、联、文等；
 3. 诗文名句 10000 句；
@@ -57,7 +58,8 @@ Android 8.0 及以上
 
 1. 经常使用 Github 或 Gitee 的同学，可点个 "Star"。
 
-2. 关注微信公众号『NowInLife』或者 B 站『NowInLife』获取最新更新，一般会在公众号发布一篇更新说明，在 B 站发布新功能演示视频。
+2. 关注微信公众号『NowInLife』或者 B 站『NowInLife』获取最新更新，一般会在公众号发布一篇更新说明，在 B
+   站发布新功能演示视频。
 
 ## 仓库
 
@@ -81,6 +83,7 @@ Gitee:[https://gitee.com/hefengbao/jingmo](https://gitee.com/hefengbao/jingmo)
 ```shell
 git clone https://github.com/hefengbao/jingmo.git
 ```
+
 在 `local.properties` 按如下示例添加：
 
 ```
@@ -157,7 +160,8 @@ keyPassword=
 
 ~本项目使用的数据位于 `app/src/main/assets` 目录下，有需要的请自取😀~
 
-1.6.0 及之前，本项目使用的数据位于 `app/src/main/assets` 目录下，1.6.1 及以后，放在如下仓库里: `hefengbao/jingmo-data`、`hefengbao/jingmo-data2`、`hefengbao/jingmo-data3`, 具体在 `gh-pages` 分支。
+1.6.0 及之前，本项目使用的数据位于 `app/src/main/assets` 目录下，1.6.1 及以后，放在如下仓库里:
+`hefengbao/jingmo-data`、`hefengbao/jingmo-data2`、`hefengbao/jingmo-data3`, 具体在 `gh-pages` 分支。
 
 ## Github Star History
 
